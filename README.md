@@ -5,3 +5,4 @@
 2. [Deploy a Simple Ethereum Smart Contract on Polyjuice ](./task02/readme.md)
 3. [Issue a Smart Contract Call to the Deployed Smart Contract](./task03/readme.md)
 4. [Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](./task04/readme.md)
+5. [Deploy the ERC20 Proxy Contract for the Deposited SUDT](./task05/readme.md)
